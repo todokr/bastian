@@ -11,4 +11,5 @@ project/target
 bin
 
 .idea
+.metals
 usecases.svg
