@@ -1,0 +1,5 @@
+$ delete usecases.svg
+
+> bastian
+$ exists usecases.svg
+# $ pause
